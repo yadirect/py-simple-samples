@@ -1,0 +1,8 @@
+print("Hello World!")
+print()
+print("    / \ ")
+print("   /| |\ ")
+print("  / | | \ ")
+print(" /  | |  \ ")
+print("/___|_|___\ ")
+print("    | |")
