@@ -1,4 +1,7 @@
 
+# >, <, >=, <=, !=, ==
+
+
 def max_num(num1, num2, num3):
     if num1 >= num2 and num1 >= num3:
         return num1
@@ -9,3 +12,9 @@ def max_num(num1, num2, num3):
 
 
 print(max_num(300, 40, 5))
+
+if 1 < 3:
+    print("Number Comparison was true")
+
+if "cat" == "cat":
+    print("String Comparison was true")
