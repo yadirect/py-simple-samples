@@ -44,3 +44,18 @@ print(phrase.index("Programming"))
 
 print(" 14)")
 print(phrase.replace("Python", "Ruby"))
+
+phrase = "pythoN programminG LanguagE"
+
+print(" 15)")
+print(phrase.title())
+
+print("\nMessages:\n\tMessage 1\n\tMessage 2\n\tMessage 3\nEND\n")
+
+a = "   .   ,name surname   .   "
+print(a)
+print(a.rstrip())
+print(a.lstrip())
+print(a.strip())
+a = "....name surname...."
+print(a.strip("."))
